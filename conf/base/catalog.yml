@@ -6,4 +6,3 @@
 diabetes_data:
   type: pandas.CSVDataSet
   filepath: data/01_raw/diabetic_data.csv
-  layer: raw
